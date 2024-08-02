@@ -1,5 +1,5 @@
 {
-  "name": "grapesjs-blocks-basic",
+  "name": "grapesjs-grid-basic",
   "version": "0.1.8",
   "description": "Basic blocks for the GrapesJS editor",
   "main": "dist/grapesjs-blocks-basic.min.js",
@@ -19,7 +19,7 @@
     "blocks",
     "basic"
   ],
-  "author": "Artur Arseniev",
+  "author": "faisalsarfraz",
   "license": "BSD-3-Clause",
   "babel": {
     "presets": [
