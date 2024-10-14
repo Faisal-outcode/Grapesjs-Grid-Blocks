@@ -1,6 +1,6 @@
 {
   "name": "grapesjs-grid-basic",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "description": "Basic blocks for the GrapesJS editor",
   "main": "dist/grapesjs-blocks-basic.min.js",
   "scripts": {
